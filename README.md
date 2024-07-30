@@ -25,3 +25,9 @@ https://thanmayees.netlify.app/
 - LinkedIn: www.linkedin.com/in/ThanmayeeS
 
 Feel free to customize this template according to your portfolio's specific content and style!
+
+here's a few images from my website :
+![image](https://github.com/user-attachments/assets/50584be7-eedd-4cbc-b6fc-b17a0651ffa8)
+![image](https://github.com/user-attachments/assets/6bc628b0-eaf9-4f9e-ad16-1221a2570b0b)
+![image](https://github.com/user-attachments/assets/de58744a-8aab-4ec4-a8c7-7f5e7301454d)
+![image](https://github.com/user-attachments/assets/8ac7d957-16d8-4e63-b53b-4d094d2bb59e)
